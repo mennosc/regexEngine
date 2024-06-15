@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "token.h"
-#include "util.h"
+#include "../includes/token.h"
+#include "../includes/util.h"
 
 struct Token *create_character_class(struct List *ranges, char *characters) {
     struct Token *token = safe_malloc(sizeof(struct Token));

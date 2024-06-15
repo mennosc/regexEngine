@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "parser.h"
-#include "util.h"
-#include "token.h"
+#include "../includes/parser.h"
+#include "../includes/util.h"
+#include "../includes/token.h"
 
 
 /**

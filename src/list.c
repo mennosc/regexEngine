@@ -1,7 +1,7 @@
 #include <stdlib.h>
 
-#include "list.h"
-#include "util.h"
+#include "../includes/list.h"
+#include "../includes/util.h"
 
 /**
  * function create_node
